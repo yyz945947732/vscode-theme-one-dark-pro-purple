@@ -4,7 +4,7 @@
 [![VSCode Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/i/yaoyuanzhang.theme-one-dark-pro-purple)](https://marketplace.visualstudio.com/items?itemName=yaoyuanzhang.theme-one-dark-pro-purple)
 [![VSCode Marketplace Stars](https://img.shields.io/visual-studio-marketplace/r/yaoyuanzhang.theme-one-dark-pro-purple)](https://marketplace.visualstudio.com/items?itemName=yaoyuanzhang.theme-one-dark-pro-purple)
 
-A Visual Studio Code theme that mashes the best of [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) and [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) together.
+A Visual Studio Code theme that mashes the best of [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) and [🦄 Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) together.
 
 ## Screenshots
 
