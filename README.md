@@ -4,6 +4,8 @@ A Visual Studio Code theme that mashes the best of [One Dark Pro](https://market
 
 ## Screenshots
 
+![ScreenShot](./Screenshots/theme-code.png)
+
 ![ScreenShot](./Screenshots/theme-screenshot.png)
 
 ## License
