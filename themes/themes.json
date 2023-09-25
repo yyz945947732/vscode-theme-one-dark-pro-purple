@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "One Dark Pro Purple Theme",
+  "name": "One Dark Pro Purple",
   "type": "dark",
   "colors": {
     "foreground": "#d7dae0",
