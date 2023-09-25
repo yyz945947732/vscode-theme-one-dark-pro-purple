@@ -3,7 +3,7 @@
   "displayName": "One Dark Pro Purple",
   "description": "A Visual Studio Code theme that mashes the best of One Dark Pro and Shades of Purple together.",
   "publisher": "yaoyuanzhang",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.76.0"
   },
