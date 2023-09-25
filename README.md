@@ -18,7 +18,7 @@ Preferences:
 
 1. Go to `Extensions`
 2. Search for `One Dark Pro Purple` and install it.
-3. Go to `Color Themes` and choose `One Dark Pro Purple Syntax` as the color theme or `CMD + Shift + P` and enter Command `> color theme` and choose `One Dark Pro Purple Syntax`.
+3. Go to `Color Themes` and choose `One Dark Pro Purple` as the color theme or `CMD + Shift + P` and enter Command `> color theme` and choose `One Dark Pro Purple`.
 
 ## License
 
